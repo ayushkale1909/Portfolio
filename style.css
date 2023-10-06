@@ -9,7 +9,9 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #141414;
+  background: url('NvL.gif') no-repeat center center fixed; 
+    background-size: cover;
+
   color: #ffffff;
 }
 
